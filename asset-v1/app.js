@@ -1,6 +1,6 @@
 /* 0.7.0 2023-12-22 16:33 UTC */
 var app = new function() {
-    this.name = "Wekiddy", this.version = "9", this.date = "2023", this.folder = "asset-v9/", this.looptime = 5053, this.bpm = 90, this.totalframe = 242, this.nbpolo = 15, this.nbloopbonus = 2, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 36, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepolotshirt = "polo-sprite-tshirt.png", this.spritepicto = "game-picto.png", this.colBck = "#00102A", this.col0 = "#008cff", this.col1 = "#005cfa", this.col2 = "#0048c3", this.col3 = "#00338c", this.col4 = "#002155", this.animearray = [{
+    this.name = "Wekiddy", this.version = "9", this.date = "2023", this.folder = "asset-v1/", this.looptime = 5053, this.bpm = 90, this.totalframe = 242, this.nbpolo = 15, this.nbloopbonus = 2, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 36, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepolotshirt = "polo-sprite-tshirt.png", this.spritepicto = "game-picto.png", this.colBck = "#00102A", this.col0 = "#008cff", this.col1 = "#005cfa", this.col2 = "#0048c3", this.col3 = "#00338c", this.col4 = "#002155", this.animearray = [{
         name: "01_boo_9",
         color: "9448ff",
         uniqsnd: !1
